@@ -20,7 +20,7 @@ Khởi động vào Fedora Live CD, mở Terminal và chạy các lệnh sau:
 
 ```bash
 # Tải script patch về môi trường Live
-curl -O [https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/patch.sh](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/patch.sh)
+curl -O https://raw.githubusercontent.com/ubuntu2310fake/fedora-anaconda-mod/main/patch.sh
 
 # Cấp quyền và chạy với quyền root
 chmod +x patch.sh
